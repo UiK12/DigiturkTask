@@ -3,10 +3,10 @@ package com.umitkaya.BaseClasses;
 public class Parameters {
 
     //This 3 variables use while creating account
-    public String FIRSTNAME = "ALI VELI";
-    public String LASTNAME = "AFYON";
-    public String EMAIL = "foorwagen@mquote.tk";
-    public String PASSWORD = "Testcase.07";
+    public String FIRSTNAME;
+    public String LASTNAME;
+    public String EMAIL;
+    public String PASSWORD;
 
     //This 2 variables use for check subscribe price
     public String PRICE1 = "";
@@ -18,8 +18,8 @@ public class Parameters {
 
     //Last of 5 variable use for payment informations
 
-    public String CARHOLDERNAME = "ALI VELI";
-    public String CARDNUMBER = "1234567890123456";
-    public String VERIFICATIONCODE = "311";
+    public String CARHOLDERNAME;
+    public String CARDNUMBER;
+    public String VERIFICATIONCODE;
 
 }
