@@ -1,0 +1,7 @@
+<suite name="test" > 
+	<test name="test1" >
+		<classes>
+			<class name="com.umitkaya.TestCases.TC001"/>
+		</classes>
+	</test>
+</suite>

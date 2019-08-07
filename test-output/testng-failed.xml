@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test]">
+  <test thread-count="5" name="test1(failed)">
+    <classes>
+      <class name="com.umitkaya.TestCases.TC001">
+        <methods>
+          <include name="start"/>
+          <include name="end"/>
+          <include name="step1"/>
+        </methods>
+      </class> <!-- com.umitkaya.TestCases.TC001 -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [test] -->
